@@ -1,4 +1,4 @@
-# DumbDCAllegro
+# DumbDCAllegro Dynamic Universal Music
 
 ********************
 *** Introduction ***
